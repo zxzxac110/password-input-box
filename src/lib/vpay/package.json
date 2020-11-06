@@ -1,0 +1,14 @@
+{
+  "name": "lsh-pay",
+  "version": "1.0.0",
+  "description": "vue移动端支付密码窗插件，仿支付宝密码框。",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
